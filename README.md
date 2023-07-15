@@ -31,3 +31,18 @@ Contributors: <br>
 - Authentication: JSON Web Tokens (JWT)
 - Deployment: Vercel (front-end), AWS (back-end)
 
+
+### User Index Page(Home Page) Nav bar: <br>
+![index page nav bar](https://drive.google.com/file/d/13ZF7T2DA2uKgosTHnXh6sFM9vNQ3SK9A/view) <br>
+
+### Footer page: <br>
+![footer Page](https://user-images.githubusercontent.com/62326876/213937788-20021385-3487-45d2-9e39-0538aa97daa3.png) <br>
+
+### Register Page of users: <br>
+![register-page](https://user-images.githubusercontent.com/62326876/213937813-551c7d5e-a2d3-4808-956c-f41b581415f6.png) <br>
+
+### User Login Page: <br>
+![user login page](https://user-images.githubusercontent.com/62326876/213937831-0e703793-89d8-4ad4-8ae8-a8d94f31e8b5.png) <br>
+
+### User OTP to login Page: <br>
+![otp to login page](https://user-images.githubusercontent.com/62326876/213937851-91cd3ec3-3909-4a6d-bc17-f3122678bfdd.png) <br>
