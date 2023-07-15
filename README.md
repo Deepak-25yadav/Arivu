@@ -31,18 +31,9 @@ Contributors: <br>
 - Authentication: JSON Web Tokens (JWT)
 - Deployment: Vercel (front-end), AWS (back-end)
 
+![Screenshot (121290)](https://github.com/Deepak-25yadav/Arivu/assets/112754831/0c83ffdf-8932-4800-b1b0-dddb075158d1)
 
 ### User Index Page(Home Page) Nav bar: <br>
-![index page nav bar](https://drive.google.com/file/d/13ZF7T2DA2uKgosTHnXh6sFM9vNQ3SK9A/view) <br>
+![index page nav bar](https://raw.githubusercontent.com/Deepak-25yadav/clean-iron-2384/c0cfa9b6c5cfe70d4c05ec59dc5c0501c1293a76/Screenshot%20(121290).png?token=GHSAT0AAAAAACC5CJCRFPC4RYA6NA2PTCYCZFSOQHQ) <br>
 
-### Footer page: <br>
-![footer Page](https://user-images.githubusercontent.com/62326876/213937788-20021385-3487-45d2-9e39-0538aa97daa3.png) <br>
-
-### Register Page of users: <br>
-![register-page](https://user-images.githubusercontent.com/62326876/213937813-551c7d5e-a2d3-4808-956c-f41b581415f6.png) <br>
-
-### User Login Page: <br>
-![user login page](https://user-images.githubusercontent.com/62326876/213937831-0e703793-89d8-4ad4-8ae8-a8d94f31e8b5.png) <br>
-
-### User OTP to login Page: <br>
-![otp to login page](https://user-images.githubusercontent.com/62326876/213937851-91cd3ec3-3909-4a6d-bc17-f3122678bfdd.png) <br>
+![Screenshot (120508)](https://github.com/Deepak-25yadav/Arivu/assets/112754831/869f6faf-a99b-466a-bd9f-d2e41d24fc52)
