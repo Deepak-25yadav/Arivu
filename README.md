@@ -25,15 +25,47 @@ Contributors: <br>
 
 ## Tech-Stack Used
 
-- Front-end: React, React Router, Chakra UI
+- Front-end: HTML, CSS, JavaScript, React, Redux, Chakra-UI
 - Back-end: Node.js, Express.js
 - Database: MongoDB
-- Authentication: JSON Web Tokens (JWT)
-- Deployment: Vercel (front-end), AWS (back-end)
+- Authentication: JSON Web Tokens (JWT), bcrypt
+-  Front-end Deployment: Vercel
+-  Back-end Deployment: AWS 
 
-![Screenshot (121290)](https://github.com/Deepak-25yadav/Arivu/assets/112754831/0c83ffdf-8932-4800-b1b0-dddb075158d1)
 
-### User Index Page(Home Page) Nav bar: <br>
-![index page nav bar](https://raw.githubusercontent.com/Deepak-25yadav/clean-iron-2384/c0cfa9b6c5cfe70d4c05ec59dc5c0501c1293a76/Screenshot%20(121290).png?token=GHSAT0AAAAAACC5CJCRFPC4RYA6NA2PTCYCZFSOQHQ) <br>
+## Home Page: <br>
+![Arivu1](https://github.com/Deepak-25yadav/Arivu/assets/112754831/d5cbec2b-33dc-4675-aff9-99ba7b8e3d57)
 
-![Screenshot (120508)](https://github.com/Deepak-25yadav/Arivu/assets/112754831/869f6faf-a99b-466a-bd9f-d2e41d24fc52)
+![Arivu2a](https://github.com/Deepak-25yadav/Arivu/assets/112754831/3d0ee3a4-5511-4da1-b726-bc3c2606a672)
+
+![Arivu3](https://github.com/Deepak-25yadav/Arivu/assets/112754831/de8a235c-c1ab-4dc3-b3f0-b518313b690d)
+
+![Arivu4](https://github.com/Deepak-25yadav/Arivu/assets/112754831/9830331d-80b3-4db9-b4e9-beff6294542f)
+<br>
+## Footer 
+![Arivu5](https://github.com/Deepak-25yadav/Arivu/assets/112754831/7619e12c-92e1-4111-9165-bed9ef9587fb)
+<br>
+## Sign-up Page
+![Arivu6](https://github.com/Deepak-25yadav/Arivu/assets/112754831/5bb1cce0-f858-4f7a-bd49-8d6b2c66154c)
+<br>
+## Login Page
+![Arivu7](https://github.com/Deepak-25yadav/Arivu/assets/112754831/1a9acbca-0bb5-4191-a181-aa970d30c538)
+<br>
+## Dashboard Page
+![Arivu8](https://github.com/Deepak-25yadav/Arivu/assets/112754831/f8e267a0-f86d-448a-9ac2-83935d4e5bbf)
+
+![Arivu9](https://github.com/Deepak-25yadav/Arivu/assets/112754831/6e10002e-012c-4067-bfe8-eff74a166b09)
+
+![Arivu10](https://github.com/Deepak-25yadav/Arivu/assets/112754831/fa9eb921-41d6-4684-8ccf-70a4059c4868)
+
+![Arivu11](https://github.com/Deepak-25yadav/Arivu/assets/112754831/e91d6b2e-ca6d-4c93-b04a-3df8708eca9b)
+<br>
+## Edit Page
+![Arivu12](https://github.com/Deepak-25yadav/Arivu/assets/112754831/7f550d53-df9a-427b-b902-98d6ac19da7e)
+<br>
+## Single Product Details Page
+![Arivu13](https://github.com/Deepak-25yadav/Arivu/assets/112754831/56364dea-93aa-49ec-a996-9cfb88590494)
+
+
+
+
