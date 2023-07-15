@@ -1,12 +1,12 @@
-# puny-potato-4945
+# ARIVU
+
+ARIVU is an online learning platform that offers courses across various domains, similar to Coursera & Udemy. This repository contains the source code for the ARIVU website.
+
 
 My GitHub Link: https://github.com/Deepak-25yadav/Arivu
 
 Front-end Deployed Link: https://puny-potato-4945.vercel.app/
 
-# ARIVU
-
-ARIVU is an online learning platform that offers courses across various domains, similar to Coursera. This repository contains the source code for the ARIVU website.
 
 ## Features
 
@@ -16,7 +16,7 @@ ARIVU is an online learning platform that offers courses across various domains,
 - Access a user dashboard for managing course subscriptions and personal details.
 - Admin panel for managing courses, users, discounts, and other site settings.
 
-## Technologies Used
+## Tech-Stack Used
 
 - Front-end: React, React Router, Chakra UI
 - Back-end: Node.js, Express.js
