@@ -1,6 +1,6 @@
 # puny-potato-4945
 
-Github Link: https://github.com/SumatM/puny-potato-4945
+My GitHub Link: https://github.com/Deepak-25yadav/Arivu
 
 Front-end Deployed Link: https://puny-potato-4945.vercel.app/
 
